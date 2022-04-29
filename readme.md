@@ -17,7 +17,7 @@ The **Inspect** button is inserted to the custom Ribbon's **Dashboard Diagnostic
 
 [CS](./CS/DashboardDiagnostis/DesignerForm1.cs) ([VB](./VB/DashboardDiagnostis/DesignerForm1.vb))
 
-## Implement the Dashboard Diagnostic Tool in the Dashboard Designer
+## Inspect the Dashboard Performance in the Dashboard Designer
 
 1. Download the [Dashboard Diagnostic Tool](https://github.com/DevExpress-Examples/bi-dashboard-diagnosic-tool). 
 
@@ -29,7 +29,7 @@ The **Inspect** button is inserted to the custom Ribbon's **Dashboard Diagnostic
 
 5. Call the conroller's Start() and Stop() methods on button's click to run and finish the Dashboard Diagnostic Tool's session.
 
-6. Implement the `IFileController` interface and specify the initial and output file names in the `TryOpenFile` and `TrySaveFile` methods. Pass a new class instance that implements `IFileController` to the controller's contructor. 
+6. Implement the `IFileController` interface and specify the output file path in the `TrySaveFile` method. Pass a new class instance that implements `IFileController` to the controller's contructor. 
 
 7. To save the resulting report to the specified output path, call the controller's `Save()` method.
 
