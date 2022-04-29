@@ -10,7 +10,7 @@ The **Inspect** button is inserted to the custom Ribbon's **Dashboard Diagnostic
 
 ## Files to Look at
 
-[CS](./CS/DashboardDiagnostis/Form1.cs) ([VB](./VB/DashboardDiagnostis/Form1.vb))
+[CS](./CS/DashboardDiagnostis/DesignerForm1.cs) ([VB](./VB/DashboardDiagnostis/DesignerForm1.vb))
 
 ## Implement the Dashboard Diagnostic Tool in the Dashboard Designer
 
