@@ -26,7 +26,7 @@ The **Inspect** button is inserted to the custom Ribbon's **Dashboard Diagnostic
 
 6. Implement the `IFileController` interface and specify the initial and output file names in the `TryOpenFile` and `TrySaveFile` methods. Pass a new class instance that implements `IFileController` to the controller's contructor. 
 
-7. To save the resulting report in the specified output path, call the controller's `Save()` method.
+7. To save the resulting report to the specified output path, call the controller's `Save()` method.
 
 ## Documentation
 
