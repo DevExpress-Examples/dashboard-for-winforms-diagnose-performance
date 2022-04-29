@@ -28,6 +28,6 @@ The **Inspect** button is inserted to the custom Ribbon's **Dashboard Diagnostic
 
 7. To save the resulting report in the specified output path, call the controller's `Save()` method.
 
-## Documantation
+## Documentation
 
 - [Ribbon](https://docs.devexpress.com/Dashboard/15732/winforms-dashboard/winforms-designer/ui-elements-and-customization/ui-elements/ribbon#configure-ribbon-at-runtime)
