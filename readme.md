@@ -22,7 +22,7 @@ The **Inspect** button is inserted to the custom Ribbon's **Dashboard Diagnostic
 
 4. Create a `DiagnosticController` object. 
 
-5. Call the conroller's Start() and Stop() methods on click, to run and finish the Dashboard Diagnostic Tool's session.
+5. Call the conroller's Start() and Stop() methods on button's click to run and finish the Dashboard Diagnostic Tool's session.
 
 6. Implement the `IFileController` interface and specify the initial and output file names in the `TryOpenFile` and `TrySaveFile` methods. Pass a new class instance that implements `IFileController` to the controller's contructor. 
 
