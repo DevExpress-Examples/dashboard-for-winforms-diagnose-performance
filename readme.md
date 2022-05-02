@@ -9,7 +9,7 @@ The following example shows how to integrate the Dashboard Diagnostic Tool's fun
 
 ## Overview
 
-The **Inspect** button is inserted to the custom Ribbon's **Dashboard Diagnostics** page group. The button click starts a new diagnostic session. The Dashboard Diagnostic Tool monitors user actions to collects actions for each event of the event session. When you uncheck the button, the session ends and the resulting report is automatically saved to the XML file. You can open the report in the Diagnostic Tool UI. 
+The **Inspect** button is inserted to the custom Ribbon's **Performance Diagnostics** page group. The button click starts a new diagnostic session. The Dashboard Diagnostic Tool monitors user actions to collects actions for each event of the event session. When you uncheck the button, the session ends and the resulting report is automatically saved to the XML file. You can open the report in the Diagnostic Tool UI. 
 
 ![Dashboard Diagnostic Tool integrated to the Dashboard Designer](./images/dashboardMain.png)
 
