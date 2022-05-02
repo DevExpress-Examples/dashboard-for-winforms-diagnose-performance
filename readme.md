@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Dashboard for WinForms - Inspect the Dashboard Performance
 
-The following example shows how to integrate the Dashboard Diagnostic Tool in the Dashboard Designer to allow users to inspect the dashboard's performance.
+The following example shows how to integrate the Dashboard Diagnostic Tool's functionality in the Dashboard Designer to allow users to inspect the dashboard's performance.
 
 ## Overview
 
