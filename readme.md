@@ -28,7 +28,8 @@ The **Inspect** button is inserted into the custom Ribbon's **Performance Diagno
 
 4. Create a `DiagnosticController` object. 
 
-5. Call the conroller's Start() and Stop() methods on button's click to run and finish the Dashboard Diagnostic Tool's session.
+5. Call the controller's Start() and Stop() methods on a button click to run and finish the Dashboard Diagnostic Tool's session.
+
 
 6. Implement the `IFileController` interface and specify the output file path in the `TrySaveFile` method. Pass a new class instance that implements `IFileController` to the controller's contructor. 
 
