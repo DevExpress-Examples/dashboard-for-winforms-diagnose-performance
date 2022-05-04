@@ -22,7 +22,8 @@ The **Inspect** button is inserted into the custom Ribbon's **Performance Diagno
 
 2. Reference `DiagnosticTool.dll` and install the [Microsoft.Diagnostics.Tracing.TraceEvent](https://www.nuget.org/packages/Microsoft.Diagnostics.Tracing.TraceEvent/) package in your dashboard project. 
 
-3. Create a custom button and insert it to the Ribbon.
+3. Create a custom button and insert it in the Ribbon.
+
 
 4. Create a `DiagnosticController` object. 
 
