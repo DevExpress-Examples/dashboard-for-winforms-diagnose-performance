@@ -47,7 +47,7 @@ namespace DashboardDiagnostis {
             else{
                 controller.Stop();
                 controller.Save();
-                MessageBox.Show("Diagnostic is over");
+                MessageBox.Show("Diagnostic is complete");
             }
         }
     }
