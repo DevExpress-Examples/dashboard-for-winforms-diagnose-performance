@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<BenchmarkItemSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Benchmarks />
-  <TraceItems />
-  <Sessions>
-    <SessionItem SessionId="1" ThreadId="-1" Name="Session1" />
-  </Sessions>
-</BenchmarkItemSet>
