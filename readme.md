@@ -16,7 +16,7 @@ The **Inspect** button is inserted into the custom Ribbon's **Performance Diagno
 
 ## Files to Look at
 
-[DesignerForm1.cs](./CS/DashboardDiagnostis/DesignerForm1.cs) ([DesignerForm1.vb](./VB/DashboardDiagnostis/DesignerForm1.vb))
+[DesignerForm1.cs](./CS/DashboardDiagnostis/DesignerForm1.cs)
 
 ## Inspect the Dashboard Performance in the Dashboard Designer
 
