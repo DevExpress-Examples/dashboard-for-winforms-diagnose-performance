@@ -81,9 +81,6 @@
       <HintPath>..\packages\Microsoft.Diagnostics.Tracing.TraceEvent.3.0.0\lib\net462\Dia2Lib.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
-    <Reference Include="DiagnosticTool">
-      <HintPath>..\Bin\DiagnosticTool.dll</HintPath>
-    </Reference>
     <Reference Include="Microsoft.Diagnostics.FastSerialization, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.Diagnostics.Tracing.TraceEvent.3.0.0\lib\net462\Microsoft.Diagnostics.FastSerialization.dll</HintPath>
     </Reference>
@@ -169,6 +166,12 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Logs\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DiagnosticTool\DiagnosticTool.csproj">
+      <Project>{f4fa18a5-dde4-453a-a92c-33a68aabe2ee}</Project>
+      <Name>DiagnosticTool</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
