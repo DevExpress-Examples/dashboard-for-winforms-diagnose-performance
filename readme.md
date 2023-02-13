@@ -14,7 +14,7 @@ The **Inspect** button is inserted into the custom Ribbon's **Performance Diagno
 ![Dashboard Diagnostic Tool integrated into the Dashboard Designer](./images/dashboardMain.png)
 
 
-## Files to Look at
+## Files to Review
 
 [DesignerForm1.cs](./CS/DashboardDiagnostis/DesignerForm1.cs)
 
