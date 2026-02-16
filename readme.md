@@ -43,7 +43,7 @@ The **Inspect** button is inserted into the custom Ribbon's **Performance Diagno
 - [Ribbon](https://docs.devexpress.com/Dashboard/15732/winforms-dashboard/winforms-designer/ui-elements-and-customization/ui-elements/ribbon#configure-ribbon-at-runtime)
 - [BI Dashboard Diagnostic Tool](https://docs.devexpress.com/Dashboard/403867/basic-concepts-and-terminology/bi-dashboard-performance/bi-dashboard-diagnostic-tool)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=dashboard-for-winforms-diagnose-performance&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=dashboard-for-winforms-diagnose-performance&~~~was_helpful=no)
 
